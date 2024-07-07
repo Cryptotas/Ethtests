@@ -1,0 +1,107 @@
+```json
+{
+  "shortDescription": "Test your Ethereum knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "What is ETH?",
+      "answers": ["Token", "Chain", "App"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ethereum uses?",
+      "answers": ["PoW", "PoS", "Both"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who founded Ethereum?",
+      "answers": ["Buterin", "Nakamoto", "Zhao"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gas?",
+      "answers": ["Fee", "Coin", "Contract"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "EVM stands for?",
+      "answers": ["Machine", "Module", "Miner"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Solidity?",
+      "answers": ["Language", "Tool", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ETH 2.0 upgrade?",
+      "answers": ["Merge", "Split", "Fork"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ERC-20 is a?",
+      "answers": ["Token", "Block", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "DApps run on?",
+      "answers": ["Chain", "Server", "Node"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ether is a?",
+      "answers": ["Token", "Gas", "Fee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "First ETH block?",
+      "answers": ["Genesis", "Start", "Alpha"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Geth is a?",
+      "answers": ["Client", "Token", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ETH supply?",
+      "answers": ["Unlimited", "21M", "Fixed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Hard fork name?",
+      "answers": ["DAO", "ETC", "EOS"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ETH transactions?",
+      "answers": ["Blocks", "Gas", "Fees"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Smart contract?",
+      "answers": ["Code", "Coin", "Key"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ethereum logo?",
+      "answers": ["Diamond", "Circle", "Square"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a node?",
+      "answers": ["Server", "Coin", "Fee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ETH governance?",
+      "answers": ["DAO", "CEO", "PoW"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Layer 2?",
+      "answers": ["Scaling", "Security", "Fee"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
+```
